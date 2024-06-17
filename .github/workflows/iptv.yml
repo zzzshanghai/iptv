@@ -167,6 +167,24 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@mnews-tw/live)
         EOL
+    - name: Get DaAiVideo.m3u8
+      run: |
+        touch ./DaAiVideo.m3u8
+        sudo cat >./DaAiVideo.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/@DaAiVideo/live)
+        EOL
+    - name: Get DaAiVideo2.m3u8
+      run: |
+        touch ./DaAiVideo2.m3u8
+        sudo cat >./DaAiVideo2.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/@DaAiVideo2/live)
+        EOL
     - name: Get phoenixtvhk.m3u8
       run: |
         touch ./phoenixtvhk.m3u8
