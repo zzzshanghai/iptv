@@ -32,4 +32,8 @@ TVBS选新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/TVBSNEWS02
 
 镜新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/mnews-tw.m3u8
 
+大爱1台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/DaAiVideo.m3u8
+
+大爱2台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/DaAiVideo2.m3u8
+
 凤凰资讯,https://raw.githubusercontent.com/zzzshanghai/iptv/main/phoenixtvhk.m3u8
