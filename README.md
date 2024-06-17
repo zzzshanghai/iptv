@@ -1,5 +1,7 @@
 🎡台湾新闻,#genre#
 
+中视新闻HD,https://raw.githubusercontent.com/zzzshanghai/iptv/main/twctvnews.m3u8
+
 中视新闻HD,https://raw.githubusercontent.com/zzzshanghai/iptv/main/chinatvnews.m3u8
 
 台视新闻HD,https://raw.githubusercontent.com/zzzshanghai/iptv/main/TTV_NEWS.m3u8
