@@ -30,4 +30,6 @@ TVBS选新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/TVBSNEWS02
 
 寰宇新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/globalnewstw.m3u8
 
+镜新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/mnews-tw.m3u8
+
 凤凰资讯,https://raw.githubusercontent.com/zzzshanghai/iptv/main/phoenixtvhk.m3u8
