@@ -16,6 +16,10 @@
 
 中天新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/CtiTv.m3u8
 
+中天2台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/ctiplusnews.m3u8
+
+中天亚洲台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/CtiAsia.m3u8
+
 TVBS NEWS,https://raw.githubusercontent.com/zzzshanghai/iptv/main/TVBSNEWS01.m3u8
 
 TVBS选新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/TVBSNEWS02.m3u8
