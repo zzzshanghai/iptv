@@ -104,14 +104,14 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@ctiplusnews/live)
         EOL
-    - name: Get CtiAsia.m3u8
+    - name: Get 中天亞洲台CtiAsia.m3u8
       run: |
-        touch ./CtiAsia.m3u8
-        sudo cat >./CtiAsia.m3u8 <<EOL
+        touch ./中天亞洲台CtiAsia.m3u8
+        sudo cat >./中天亞洲台CtiAsia.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@CtiAsia/live)
+        $(yt-dlp --print urls https://www.youtube.com/@中天亞洲台CtiAsia/live)
         EOL
     - name: Get TVBSNEWS01.m3u8
       run: |
