@@ -14,7 +14,7 @@
 
 东森财经新闻HD,https://raw.githubusercontent.com/zzzshanghai/iptv/main/57ETFN.m3u8
 
-中天新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/CtiTv.m3u8
+中天新闻,https://raw.githubusercontent.com/zzzshanghai/iptv/main/中天電視CtiTv.m3u8
 
 中天2台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/ctiplusnews.m3u8
 
