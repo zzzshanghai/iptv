@@ -18,7 +18,7 @@
 
 中天2台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/ctiplusnews.m3u8
 
-中天亚洲台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/CtiAsia.m3u8
+中天亚洲台,https://raw.githubusercontent.com/zzzshanghai/iptv/main/中天亞洲台CtiAsia.m3u8
 
 TVBS NEWS,https://raw.githubusercontent.com/zzzshanghai/iptv/main/TVBSNEWS01.m3u8
 
